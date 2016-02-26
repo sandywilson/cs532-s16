@@ -1,0 +1,9 @@
+id,number_of_friends,name
+1,236,Kyle van de Kamp
+2,244,Frank Grove
+3,317,Chad Matthews
+4,421,Jamie Gastrich
+5,448,Connor Huffine
+6,539,Bob Bush
+7,575,Paul Wilson
+8,784,Rachel Wilson
