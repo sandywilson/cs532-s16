@@ -1,0 +1,20 @@
+03-31 15:52:46 gen_log      INFO     Reading data_files/u.data and creating array of lines.
+03-31 15:52:46 gen_log      INFO     Finished reading data_files/u.data
+03-31 15:52:46 gen_log      INFO     Reading data_files/u.item and creating array of lines.
+03-31 15:52:46 gen_log      INFO     Finished reading data_files/u.item
+03-31 15:52:46 gen_log      INFO     Reading data_files/u.user and creating array of lines.
+03-31 15:52:46 gen_log      INFO     Finished reading data_files/u.user
+03-31 15:52:46 gen_log      DEBUG    Created thread: data_thread
+03-31 15:52:46 gen_log      DEBUG    Created thread: item_thread
+03-31 15:52:46 gen_log      DEBUG    Created thread: user_thread
+03-31 15:52:46 gen_log      DEBUG    Starting thread: data_thread
+03-31 15:52:46 u_data       INFO     Extracting <user_id> <item_id> <rating> <timestamp> from 100000 lines.
+03-31 15:52:46 gen_log      DEBUG    Starting thread: item_thread
+03-31 15:52:46 u_item       INFO     Extracting <movie_id>|<movie_title>|<release_date>|<video_release_date>|<IMDb_URL>|<movieGenres>... from 1682 lines
+03-31 15:52:46 gen_log      DEBUG    Starting thread: user_thread
+03-31 15:52:46 u_user       INFO     Extracting <user_id>|<age>|<gender>|<occupation>|<zipcode> from 943 lines.
+03-31 15:52:46 u_user       INFO     Finished extracting 943 lines
+03-31 15:52:46 u_item       INFO     Finished extracting 1682 lines.
+03-31 15:52:47 u_data       INFO     Finished extracting 100000 lines of data
+03-31 15:52:47 gen_log      INFO     Finished processing data files
+03-31 15:52:47 default      INFO     No user ids to process.
