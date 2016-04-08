@@ -1,0 +1,20 @@
+For k=5
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+
+For k=10
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+
+For k=20
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+
