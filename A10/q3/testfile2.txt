@@ -1,0 +1,5 @@
+<http://www.drapersonline.com%0A>;rel="original"
+,<http://webarchive.parliament.uk/20121201023350/http://www.drapersonline.com%0A>;rel="memento first"; datetime="Sat, 01 Dec 2012 02:33:50 GMT"
+,<http://webarchive.parliament.uk/20121203160719/http://www.drapersonline.com%0A>;rel="memento last"; datetime="Mon, 03 Dec 2012 16:07:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.drapersonline.com%0A>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.drapersonline.com%0A>;rel="self"; type="application/link-format"; from ="Sat, 01 Dec 2012 02:33:50 GMT";until="Mon, 03 Dec 2012 16:07:19 GMT"
