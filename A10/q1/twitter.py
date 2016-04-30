@@ -8,10 +8,6 @@ import urllib.request
 from bs4 import BeautifulSoup 
 import os
 
-access_token = "4856503619-3DtfcYGPx95jS5FuL7WX6tpr1sTQ1b1Kmx5cQiL"
-access_token_secret = "9tHO78XZxo9rGwJB9D3ox8MPXGLzHNpZmOk9ZmsniQPWg"
-consumer_key = "lYUHPYN8uCL84oesFXnhH9FSh"
-consumer_secret = "wCPmeGp2s5v0mLq3c56aa5PjJMzpV2YxNhy2XAPRuUsMNPrS6X"
 
 auth = twitter.oauth.OAuth(atoken, asecret,
                            ckey, csecret)
